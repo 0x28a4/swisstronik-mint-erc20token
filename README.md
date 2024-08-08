@@ -1,1 +1,0 @@
-# swisstronik-mint-erc20token
